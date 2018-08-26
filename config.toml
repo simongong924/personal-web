@@ -38,7 +38,7 @@ enableGitInfo = false
 [params]
   # Your details.
   name = "Simo Gong "
-  bio = "Computer Science Student @ UWaterloo"
+  bio = "Stay Humble"
 
   avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   myback = "2.jpg"
