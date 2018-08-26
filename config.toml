@@ -42,7 +42,7 @@ enableGitInfo = false
 
   avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   myback = "2.jpg"
-  location = "San Francisco"
+  # location = "San Francisco"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -68,25 +68,25 @@ enableGitInfo = false
   [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
-    link = "//instagram.com/jhu247"
+    link = "//instagram.com/simongongg"
     text = "Instagram"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/joshua-hu-12290a43"
+    link = "//linkedin.com/in/simongong924"
     text = "LinkedIn"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/jhu247"
-    text = "Twitter"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/jhu247"
+  #   text = "Twitter"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jhu247"
+    link = "//github.com/simongong924"
     text = "Github"
 
 # Taxonomies.
