@@ -1,6 +1,6 @@
 ---
 title: "More filler content"
-hero_image: "/img/hero.jpg"
+hero_image: "/img/2.jpg"
 date: 2018-07-26T17:44:36-07:00
 description: "Filler description."
 ---
