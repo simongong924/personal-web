@@ -1,4 +1,4 @@
 ---
-hero_image: "hero.jpg"
+hero_image: "/img/2.jpg"
 
 ---

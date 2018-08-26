@@ -41,7 +41,7 @@ enableGitInfo = false
   bio = "Computer Science Student @ UWaterloo"
 
   avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  masthead-hero = "hero.jpg"
+  myback = "2.jpg"
   location = "San Francisco"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).

@@ -1,6 +1,6 @@
 ---
 title: "Another blog post this is"
-hero_image: "hero.jpg"
+hero_image: "/img/2.jpg"
 date: 2018-07-25T17:44:36-07:00
 description: "Another blog description this is."
 ---

@@ -1,6 +1,6 @@
 ---
 title: "This is a blog post"
-hero_image: "hero.jpg"
+hero_image: "/img/2.jpg"
 date: 2018-07-24T17:44:36-07:00
 description: "This is a blog description."
 ---

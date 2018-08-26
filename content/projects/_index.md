@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-hero_image: "hero.jpg"
+hero_image: "/img/2.jpg"
 nometadata: true
 notags: true
 noshare: true
